@@ -1,0 +1,21 @@
+ #dark {
+ 
+    background-color:rgb(0, 0, 0);
+ 
+ 
+ p {
+        background-color: #f9ec01;
+      color: rgb(0, 0, 0);
+    }
+    h1 {
+      color: green;
+    }
+    h2 {
+        color: rgb(237, 7, 7);
+    }
+    h3 {
+        color: #33ff00;
+         background-color: #ee0303;
+         padding: 20px;
+    }
+}
