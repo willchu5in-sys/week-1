@@ -9,6 +9,12 @@
     color: pink;
  }
  
+    .piglet {
+      background-color: coral;
+      color: black;
+      padding: 30px;
+    }
+
  p {
         background-color: blueviolet;
       color: rgb(255, 255, 255);
